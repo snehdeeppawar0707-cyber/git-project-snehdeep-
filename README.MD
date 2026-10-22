@@ -1,2 +1,7 @@
 SNEHDEEP PAWAR
 I AM A STUDENT AT UPGRAD SCHOOL OF TECHNOLOGY , CURRENTLY LEARNING GIT AND GITHUB
+
+## Skills
+- Communication
+- Problem solving
+- Basic Git
