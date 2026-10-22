@@ -12,3 +12,7 @@ I AM A STUDENT AT UPGRAD SCHOOL OF TECHNOLOGY , CURRENTLY LEARNING GIT AND GITHU
 
 ## Contact
 - Email: example@gmail.com
+
+## Hobbies
+- 1st hobby 
+- 2nd hobby
