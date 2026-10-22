@@ -4,4 +4,9 @@ I AM A STUDENT AT UPGRAD SCHOOL OF TECHNOLOGY , CURRENTLY LEARNING GIT AND GITHU
 ## Skills
 - Communication
 - Problem solving
-- Basic Git
+- Basic Git 
+
+## project 
+- lms: one line about it 
+- cml: one line about it 
+
